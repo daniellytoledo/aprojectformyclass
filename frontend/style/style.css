@@ -1,0 +1,10 @@
+body {
+    background-image: url('../src/img/igor-freitas-mesa.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
