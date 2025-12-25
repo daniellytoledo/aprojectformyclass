@@ -7,4 +7,19 @@ body {
     min-height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
+    overflow: hidden;
+}
+
+#title {
+  font-family: "Barriecito", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  text-align: center;
+}
+
+#course-name {
+    font-weight: 250;
+    color: white;
+    text-align: center;
 }
